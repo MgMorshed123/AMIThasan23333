@@ -3,13 +3,13 @@
 
 # AMIThasan2333
 
-<img    align='left' src='https://github-readme-stats.vercel.app/api?username=AMIThASAN23333&show_icons=true&theme=cobalt' />
+<img    align='left' width="50%"  src='https://github-readme-stats.vercel.app/api?username=AMIThASAN23333&show_icons=true&theme=cobalt' />
 
-<img    align='left' src='https://github-readme-stats.vercel.app/api/wakatime?username=willianrod' />
+<img    align='left'  width="50%" height='170%' src='https://github-readme-stats.vercel.app/api/wakatime?username=willianrod' />
 
-<img    align='left' width="45%"  height="40%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=AMIThasan23333&hide' />
+<img    align='left' width="50%"  height="40%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=AMIThasan23333&hide' />
 
-<img    align='left'  src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white' />
+<img    align='left'    src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white' />
 
 <img    align='left'  src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' />
 
