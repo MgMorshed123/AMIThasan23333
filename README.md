@@ -3,11 +3,14 @@
 
 # AMIThasan2333
 
-<img    align='left' width="50%"  src='https://github-readme-stats.vercel.app/api?username=AMIThASAN23333&show_icons=true&theme=cobalt' />
+<img    align='left' width="40%"  src='https://github-readme-stats.vercel.app/api?username=AMIThASAN23333&show_icons=true&theme=cobalt' />
 
-<img    align='left'  width="50%" height='170%' src='https://github-readme-stats.vercel.app/api/wakatime?username=willianrod' />
+<img    align='left' width="50%"  src='https://streak-stats.demolab.com/?user=AMIThASAN23333&theme=dark' />
 
-<img    align='left' width="50%"  height="40%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=AMIThasan23333&hide' />
+<img    align='left'  width="40%" height='70%' src='https://github-readme-stats.vercel.app/api/wakatime?username=willianrod' />
+
+
+
 
 <img    align='left'    src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white' />
 
@@ -62,6 +65,9 @@
 
 
 <img    align='left' src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' />
+
+
+<img    align='left' width="30%"  src='https://github-readme-stats.vercel.app/api/top-langs/?username=AMIThASAN23333&theme=tokyonight' />
 
 
 
