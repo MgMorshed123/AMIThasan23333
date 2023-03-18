@@ -6,7 +6,6 @@
 <img    align='left' src='https://github-readme-stats.vercel.app/api?username=AMIThASAN23333&show_icons=true&theme=cobalt' />
 
 <img    align='left' src='https://github-readme-stats.vercel.app/api/wakatime?username=willianrod' />
-[![willianrod's wakatime stats]()](https://github.com/anuraghazra/github-readme-stats)
 
 <img    align='left' width="45%"  height="40%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=AMIThasan23333&hide' />
 
