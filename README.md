@@ -1,9 +1,9 @@
-### Hi there 👋
+
 
 
 # SFmorshed
 
-<h1 align="center">Hi <img src = "[https://raw.githubusercontent.com/AMIThasan23333/AMIThasan23333/main/hi.gif](https://www.flaticon.com/free-icon/laughing_520460?term=smiley+face&page=1&position=27&origin=tag&related_id=520460)" width="50px" height="50px">, I'm Morshed</h1>
+<h1 align="center">Hi , I'm Morshed</h1>
 
 <img    align='left' width="40%"  src='https://github-readme-stats.vercel.app/api?username=AMIThASAN23333&show_icons=true&theme=cobalt' />
 
