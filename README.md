@@ -3,6 +3,8 @@
 
 # SFmorshed
 
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Atik</h1>
+
 <img    align='left' width="40%"  src='https://github-readme-stats.vercel.app/api?username=AMIThASAN23333&show_icons=true&theme=cobalt' />
 
 <img    align='left' width="50%"  src='https://streak-stats.demolab.com/?user=AMIThASAN23333&theme=dark' />
