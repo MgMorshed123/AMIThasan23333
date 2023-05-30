@@ -10,9 +10,11 @@
 <img    align='right' width="40%"  src='https://github-readme-stats.vercel.app/api?username=AMIThASAN23333&show_icons=true&theme=cobalt' />
   </div>
 
+<div>
 <img    align='left' width="50%"  src='https://streak-stats.demolab.com/?user=AMIThASAN23333&theme=dark' />
+</div>
 
-  
+
 <img    align='right' width="30%"  src='https://github-readme-stats.vercel.app/api/top-langs/?username=AMIThASAN23333&theme=tokyonight' />
 
 
