@@ -9,10 +9,13 @@
 
 <img    align='left' width="50%"  src='https://streak-stats.demolab.com/?user=AMIThASAN23333&theme=dark' />
 
-
+<div>
+  
 <img    align='left' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' />
 
 
+  
+  </div>
 
   
 
