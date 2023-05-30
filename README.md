@@ -9,13 +9,6 @@
 
 <img    align='left' width="50%"  src='https://streak-stats.demolab.com/?user=AMIThASAN23333&theme=dark' />
 
-
-
-<div align='right' width="193%">
-  
-<img    align='left' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' />
-  
- </div>
   
 
 
@@ -33,7 +26,9 @@
   
 <img    align='left'  src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' /> 
  <img    align='left' src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase' />
-    
+      
+<img    align='left' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' />
+
 
 
 <img    align='left' src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' />
