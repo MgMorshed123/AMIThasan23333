@@ -35,9 +35,6 @@
       
    <img    align='left' src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=whitee' />
 
-         
-
-<img    align='left'  width="40%" height='70%' src='https://github-readme-stats.vercel.app/api/wakatime?username=willianrod' />
 
 
 
