@@ -13,7 +13,7 @@
 <img    align='right' width="30%"  src='https://github-readme-stats.vercel.app/api/top-langs/?username=AMIThASAN23333&theme=tokyonight' />
 
 
-<div    align='left'  padding="40px"  width="50%">
+<div    align='left'  padding="40px"   width="80%">
  
  <img    align='left' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' />
 
