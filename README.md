@@ -4,12 +4,6 @@
 # SFmorshed
 
 <h1 align="center">Hi , I'm Morshed</h1>
-
-<div>
-  
-
-  </div>
-
 <div>
 <img    align='left' width="50%"  src='https://streak-stats.demolab.com/?user=AMIThASAN23333&theme=dark' />
 </div>
