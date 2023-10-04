@@ -1,9 +1,6 @@
 <!-- Your Name -->
 <h1 align="center">John Doe</h1>
 
-<!-- Your Bio -->
-<p align="center">🚀 Full-Stack Developer | 🌟 Open Source Enthusiast | 📚 Lifelong Learner</p>
-
 <!-- Animated Banner -->
 <p align="center">
   <img src="https://github.com/johndoe/johndoe/blob/main/assets/banner.gif" alt="Animated Banner">
@@ -19,28 +16,18 @@
   </a>
 </p>
 
-<!-- My Interests -->
-<h2 align="center">💡 Interests</h2>
+<!-- Introduction -->
+<p align="center">🚀 Full-Stack Developer | 🌟 Open Source Enthusiast | 📚 Lifelong Learner</p>
+
+<!-- GitHub Contribution Graph -->
 <p align="center">
-  🌐 Full-Stack Web Development<br>
-  📊 Data Science and Machine Learning<br>
-  💬 Open Source Contributions<br>
-  📝 Tech Blogging
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=dark" alt="GitHub Streak">
 </p>
 
-<!-- My Skills -->
+<!-- Animated Language Skills -->
 <h2 align="center">🚀 Skills</h2>
 <p align="center">
-  <b>Languages:</b> JavaScript, Python, Java<br>
-  <b>Web Technologies:</b> HTML/CSS, React, Node.js<br>
-  <b>Data Science:</b> Pandas, NumPy, Scikit-Learn<br>
-  <b>Version Control:</b> Git/GitHub
-</p>
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github.com/johndoe/johndoe/blob/main/assets/skills.gif" alt="Skills Animation">
 </p>
 
 <!-- Featured Projects -->
@@ -54,10 +41,10 @@
   </a>
 </p>
 
-<!-- GitHub Streak -->
-<h2 align="center">🌠 GitHub Streak</h2>
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <!-- Footer -->
