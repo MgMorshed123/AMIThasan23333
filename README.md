@@ -1,51 +1,67 @@
-
 <!-- Your Name -->
-# John Doe
+<h1 align="center">John Doe</h1>
 
 <!-- Your Bio -->
-## 👋 Hi there!
-I'm a passionate software developer, open-source enthusiast, and lifelong learner. My mission is to create meaningful software that makes a positive impact on the world.
+<p align="center">🚀 Full-Stack Developer | 🌟 Open Source Enthusiast | 📚 Lifelong Learner</p>
+
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://github.com/johndoe/johndoe/blob/main/assets/banner.gif" alt="Animated Banner">
+</p>
 
 <!-- Social Media Links -->
-### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-johndoe-blue)](https://www.linkedin.com/in/johndoe)
-[![Twitter](https://img.shields.io/badge/Twitter-@johndoe-purple)](https://twitter.com/johndoe)
+<p align="center">
+  <a href="https://www.linkedin.com/in/johndoe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-johndoe-blue" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/johndoe" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@johndoe-purple" alt="Twitter">
+  </a>
+</p>
 
 <!-- My Interests -->
-## 💡 Interests
-- Full-Stack Web Development
-- Data Science and Machine Learning
-- Open Source Contributions
-- Tech Blogging
+<h2 align="center">💡 Interests</h2>
+<p align="center">
+  🌐 Full-Stack Web Development<br>
+  📊 Data Science and Machine Learning<br>
+  💬 Open Source Contributions<br>
+  📝 Tech Blogging
+</p>
 
 <!-- My Skills -->
-## 🚀 Skills
-- **Languages:** JavaScript, Python, Java
-- **Web Technologies:** HTML/CSS, React, Node.js
-- **Data Science:** Pandas, NumPy, Scikit-Learn
-- **Version Control:** Git/GitHub
+<h2 align="center">🚀 Skills</h2>
+<p align="center">
+  <b>Languages:</b> JavaScript, Python, Java<br>
+  <b>Web Technologies:</b> HTML/CSS, React, Node.js<br>
+  <b>Data Science:</b> Pandas, NumPy, Scikit-Learn<br>
+  <b>Version Control:</b> Git/GitHub
+</p>
 
-<!-- My GitHub Stats -->
-## 📊 GitHub Stats
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark)
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 <!-- Featured Projects -->
-## 🌟 Featured Projects
-- [Project 1](https://github.com/johndoe/project1): Short project description.
-- [Project 2](https://github.com/johndoe/project2): Short project description.
-
-<!-- My Blog Posts -->
-## 📝 Latest Blog Posts
-- [Blog Post 1](https://johndoe.com/blog/post1): Brief post description.
-- [Blog Post 2](https://johndoe.com/blog/post2): Brief post description.
+<h2 align="center">🌟 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/johndoe/project1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoe&repo=project1&theme=radical" alt="Project 1">
+  </a>
+  <a href="https://github.com/johndoe/project2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoe&repo=project2&theme=radical" alt="Project 2">
+  </a>
+</p>
 
 <!-- GitHub Streak -->
-## 🌠 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<h2 align="center">🌠 GitHub Streak</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=radical" alt="GitHub Streak">
+</p>
 
 <!-- Footer -->
----
 <p align="center">
-  <a href="https://johndoe.com">Website</a> •
+  <a href="https://johndoe.com" target="_blank">Website</a> •
   <a href="mailto:johndoe@email.com">Email</a>
 </p>
