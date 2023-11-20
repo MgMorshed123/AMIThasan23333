@@ -1,3 +1,11 @@
-[![](https://raw.githubusercontent.com/MgMorshed123/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/MgMorshed123/github-profile-summary-cards-example)
-[![](https://raw.githubusercontent.com/MgMorshed123/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/MgMorshed123/github-profile-summary-cards-example) [![](https://raw.githubusercontent.com/MgMorshed123/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/MgMorshed123/github-profile-summary-cards-example)
-[![](https://raw.githubusercontent.com/MgMorshed123/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/MgMorshed123/github-profile-summary-cards-example) [![](https://raw.githubusercontent.com/MgMorshed123/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/MgMorshed123/github-profile-summary-cards-example)
+<p align="center">
+  <a href="https://github.com/MgMorshed123">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Nice%20to%20See%20You%20Here;&font=Fira%20Code&center=true&width=400&height=45&color=ff0000&vCenter=true&size=22" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MgMorshed123">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Myself%20Mg%20Morshed;&font=Fira%20Code&center=true&width=400&height=45&color=0000ff&vCenter=true&size=22" />
+  </a>
+</p>
