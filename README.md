@@ -4,9 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="MgMorshed123/japanese.png" alt="Your SVG" width="100" height="100" />
-</p>
 
 <p align="center">
   <a href="https://github.com/MgMorshed123">
