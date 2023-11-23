@@ -1,15 +1,15 @@
-<p align="center">
-  <a href="https://github.com/MgMorshed123">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Nice%20to%20See%20You%20Here;&font=Fira%20Code&center=true&width=400&height=45&color=ff0000&vCenter=true&size=22&pause=10000" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+MG+MORSHED!;&center=true&size=30&pause=1000">
   </a>
-</p>
+</h1>
 
 
-<p align="center">
+<H1 align="center">
   <a href="https://github.com/MgMorshed123">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Myself%20Mg%20Morshed;MERN%20Stack%20Developer;%22Continuous%20learner%20and%20technology%20enthusiast%22&font=Fira%20Code&center=true&width=650&height=45&color=0000ff&vCenter=true&size=22 &pause=10" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=MERN%20Stack%20Developer;%22Continuous%20learner%20and%20technology%20enthusiast%22&font=Fira%20Code&center=true&width=650&height=45&color=0000ff&vCenter=true&size=22 &pause=10" />
   </a>
-</p>
+</H1>
 
 
 
