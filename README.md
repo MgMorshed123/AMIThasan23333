@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MgMorshed123">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Nice%20to%20See%20You%20Here;&font=Fira%20Code&center=true&width=400&height=45&color=ff0000&vCenter=true&size=22&pause=7000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Nice%20to%20See%20You%20Here;&font=Fira%20Code&center=true&width=400&height=45&color=ff0000&vCenter=true&size=22&pause=10000" />
   </a>
 </p>
 
