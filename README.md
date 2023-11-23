@@ -10,7 +10,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Myself%20Mg%20Morshed;MERN%20Stack%20Developer;%22Continuous%20learner%20and%20technology%20enthusiast%22&font=Fira%20Code&center=true&width=650&height=45&color=0000ff&vCenter=true&size=22 &pause=10" />
   </a>
 </p>
-# <p align="center" style="font-size:32px;">Languages and Tools</p>
+        <p align="center" style="font-size:42px; color:black;">Languages and Tools</p>
+
 
 
 
