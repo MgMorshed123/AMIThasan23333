@@ -29,16 +29,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=MgMorshed123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-### 😂 Random Dev Meme
-
-<p align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Random Dev Meme" />
-</p>
-
-![snake gif](https://github.com/MgMorshed123/MgMorshed123/blob/output/github-contribution-grid-snake.gif)
