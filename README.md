@@ -22,7 +22,7 @@
 
 <div> <a href="https://github.com/MgMorshed123" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:mdarfinji45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
+</div><h1 align="center">Languages and Tools:</h1>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="50" height="50"/>
@@ -47,7 +47,7 @@
 
 </p>
 
-<h3 align="left">Stars</h3>
+<h1 align="center">Stats</h1>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MgMorshed123&layout=compact&theme=highcontrast" alt=MgMorshed123 />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MgMorshed123&theme=highcontrast" alt="MgMorshed123" /></p>
